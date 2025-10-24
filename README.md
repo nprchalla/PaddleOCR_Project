@@ -7,6 +7,14 @@ The notebook efficiently handles raw datasets, performs transformations, and out
 
 ---
 
+### ⚙️ **What I Did**
+
+- Built a Jupyter Notebook pipeline for end-to-end OCR-based data extraction.
+- Used PaddleOCR (a deep learning–based OCR model) to identify and extract text from scanned documents and images.
+- Applied OpenCV for image preprocessing (noise reduction, thresholding, resizing) to enhance OCR accuracy.
+- Used Pandas and NumPy for data cleaning, structuring, and transformation after extraction.
+- Implemented validation steps to ensure the accuracy and readability of extracted text.
+
 ## 🚀 **Features**
 - **Automated data extraction** from raw input sources  
 - **Data cleaning and transformation** using Pandas and NumPy  
